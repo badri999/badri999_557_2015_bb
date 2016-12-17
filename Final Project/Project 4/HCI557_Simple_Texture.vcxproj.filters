@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\Project 4\main_simple_texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\HCI557Common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\controls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\CoordSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLSphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\Shaders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\Plane3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLAppearance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GLObjectObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\gl_common\Box3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\HCI557Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\controls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\CoordSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLSphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\Shaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\Plane3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\HCI557Datatypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLAppearanceBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLAppearance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Acads\Grad School\ME 557\CG Repo\gl_common\GLObjects3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLObjectObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\gl_common\Box3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Acads\Grad School\ME 557\CG Repo\Project 4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2D004B41-9CC6-3CFF-8F74-AD76E5A3643A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C6DC13B0-AC09-3520-A12A-C4C447FDDD17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

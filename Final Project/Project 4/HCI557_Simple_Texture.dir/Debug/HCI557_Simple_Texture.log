@@ -1,0 +1,6 @@
+﻿  main_simple_texture.cpp
+E:\Acads\Grad School\ME 557\CG Repo\Project 4\main_simple_texture.cpp(319): warning C4305: '=': truncation from 'double' to 'float'
+E:\Acads\Grad School\ME 557\CG Repo\Project 4\main_simple_texture.cpp(330): warning C4305: '=': truncation from 'double' to 'float'
+E:\Acads\Grad School\ME 557\CG Repo\Project 4\main_simple_texture.cpp(333): warning C4305: '=': truncation from 'double' to 'float'
+E:\Acads\Grad School\ME 557\CG Repo\Project 4\main_simple_texture.cpp(562): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HCI557_Simple_Texture.vcxproj -> E:\Acads\Grad School\ME 557\CG Repo\Project 4\Debug\HCI557_Simple_Texture.exe

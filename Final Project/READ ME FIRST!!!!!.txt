@@ -1,0 +1,7 @@
+Press R to initiate forward motion of the car.
+Press A to move left (change lanes to left).
+Press D to move right (change lanes to right).
+Guide the car past the blue cubes.
+
+Screenshot and video are in the presentation.
+
